@@ -1,0 +1,80 @@
+{
+    "value": [
+        {
+            "id": 116,
+            "name": "用户分析",
+            "type": "appMenuNode",
+            "url": "",
+            "children": [
+                {
+                    "id": 117,
+                    "name": "新增用户1",
+                    "url": "/new_user_analysis/1"
+                },
+                {
+                    "id": 118,
+                    "name": "新增用户2",
+                    "url": "/new_user_analysis/2"
+                },
+                {
+                    "id": 119,
+                    "name": "新增用户3",
+                    "url": "/new_user_analysis/3"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "name": "活跃用户",
+            "type": "appMenuNode",
+            "url": "",
+            "children": [
+                {
+                    "id": 121,
+                    "name": "活跃用户1",
+                    "url": "/user_active/1"
+                },
+                {
+                    "id": 122,
+                    "name": "活跃用户2",
+                    "url": "/user_active/2"
+                },
+                {
+                    "id": 123,
+                    "name": "活跃用户3",
+                    "url": "/user_active/3"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "name": "留存用户",
+            "type": "appMenuNode",
+            "url": "",
+            "children": [
+                {
+                    "id": 125,
+                    "name": "留存用户1",
+                    "url": "/user_retain/1"
+                },
+                {
+                    "id": 126,
+                    "name": "留存用户2",
+                    "url": "/user_retain/2"
+                },
+                {
+                    "id": 127,
+                    "name": "留存用户3",
+                    "url": "/user_retain/3",
+                    "children": [
+                        {
+                            "id": 128,
+                            "name": "新增用户留存率1",
+                            "url": "/user_retain/3/new_user_retain_rate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

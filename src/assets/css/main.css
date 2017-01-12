@@ -1,0 +1,40 @@
+body{
+	background: #eee;
+}
+
+/*topbar*/
+.topbar{
+	height: 24px;
+	line-height: 24px;
+	padding: 0 10px;
+	font-size: 12px;
+	background: #fff;
+}
+.logo{
+	font-size: 16px;
+	color: #444;
+	margin-right: 5px;
+}
+.site-link a{
+	line-height: 24px;
+	padding: 0 3px;
+}
+.logout{
+	padding-left: 10px;
+}
+
+/*sideNav*/
+.sideNav{
+	width: 200px;
+}
+
+/*content*/
+.empty-content{
+	padding-left: 220px;
+	padding-right: 20px;
+	text-align: center;
+}
+.main-content{
+	padding-left: 220px;
+	padding-right: 20px;
+}
